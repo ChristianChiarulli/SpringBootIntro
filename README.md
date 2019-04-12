@@ -1,5 +1,7 @@
 # SpringBootIntro
 
+Code can be found [here](https://github.com/ChristianChiarulli/SpringBootIntro) 
+
 This is a spring boot application which provides REST endpoints to perform CRUD operations on topics and related courses
 
 The project comes with a wrapper for Maven `mvnw`
