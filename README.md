@@ -1,6 +1,6 @@
 # SpringBootIntro
 
-Code can be found [here](https://github.com/ChristianChiarulli/SpringBootIntro) 
+Check out this document on my Markdown blog [here](https://chiarulli.me/Spring/01-Intro-to-Springboot/) 
 
 This is a spring boot application which provides REST endpoints to perform CRUD operations on topics and related courses
 
