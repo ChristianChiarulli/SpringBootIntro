@@ -6,10 +6,16 @@ This is a spring boot application which provides REST endpoints to perform CRUD 
 
 The project comes with a wrapper for Maven `mvnw`
 
-to run simply run the following:
+to create the `jar` simply run the following:
 
 ```sh
 ./mvnw clean package
+```
+
+To start the application run the following:
+
+```sh
+java -jar target/filename.jar
 ```
 
 This will start a tomcat server on port 8080
