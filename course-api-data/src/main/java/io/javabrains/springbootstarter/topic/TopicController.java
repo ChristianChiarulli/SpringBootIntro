@@ -39,7 +39,7 @@ public class TopicController {
     // update item in collection
     @RequestMapping(method = RequestMethod.PUT, value = "/topics/{id}")
     public void updateTopic(@RequestBody Topic topic, @PathVariable String id) {
-        topicService.updateTopic(id, topic);
+        topicService.updateTopic(topic);
     }
 
     // delete item from collection
